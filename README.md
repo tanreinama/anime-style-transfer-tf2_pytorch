@@ -16,7 +16,7 @@ $ python convert-pytorch.py --input_file <input filename> --output_file <output 
 $ python convert-tensorflow.py --input_file <input filename> --output_file <output filename>
 ```
 
-For run in no-GPU machine, add ```---gpu -1``` option.
+For run in no-GPU machine, add ```--gpu -1``` option.
 
 
 
